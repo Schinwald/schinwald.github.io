@@ -1,0 +1,29 @@
+body {
+    background-color: #eaebe8;
+    padding: 0px;
+    margin: auto;
+}
+
+.bar {
+    background-color: #272c34;
+    
+    height: 50px;
+    
+    left: 0;
+    right: 0;
+    
+    padding: 0px;
+    margin: auto;
+}
+
+#header {
+    bottom: 50%;
+}
+
+#nav {
+    top: 50%;
+}
+
+#footer {
+    bottom: 0;
+}
